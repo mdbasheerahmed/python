@@ -1,0 +1,9 @@
+person = {
+    "name": "Alice",
+    "age": 30,
+    "state": "Columbus"
+}
+print(person['age'])
+
+squares = {x: x*x for x in range(6)}
+print(squares)
